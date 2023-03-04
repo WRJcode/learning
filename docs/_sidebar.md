@@ -5,6 +5,9 @@
   * [elastic学习](elastic/base_01.md)
   * [redis入门](redis/base_01.md)
   * [Mybatis-plus快速入门](mybatis/mybatis-plus-quicklearning.md)
+  * [mybatis-动态SQL](mybatis/mybatis_foreach.md)
   * [MySql官网文档阅读记录](mysql/mysql_doc.md)
 * ***其他***
   * [chatGPT体验](others/chatingWithGPT.md)
+* ***401***
+  * [大话数据结构](401/DHData_struc.md)
