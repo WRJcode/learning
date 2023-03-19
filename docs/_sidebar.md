@@ -1,13 +1,44 @@
-* ***Java基础***
-  * [面向对象](JavaSE/object-oriented.md)
-  * [封装类](JavaSE/Encapsulation_class.md)
-* ***技术学习***
-  * [elastic学习](elastic/base_01.md)
-  * [redis入门](redis/base_01.md)
-  * [Mybatis-plus快速入门](mybatis/mybatis-plus-quicklearning.md)
-  * [mybatis-动态SQL](mybatis/mybatis_foreach.md)
-  * [MySql官网文档阅读记录](mysql/mysql_doc.md)
-* ***其他***
-  * [chatGPT体验](others/chatingWithGPT.md)
-* ***401***
-  * [大话数据结构](401/DHData_struc.md)
+- **计算机基础**
+    - **数据结构**
+      - [大话数据结构](401/DHData_struc.md)
+    - **计算机网络**
+      - [常见计算机网络协议](401/DHData_struc.md)
+    - **操作系统**
+      - [进程与线程](401/DHData_struc.md)
+- **Java基础**
+    - **集合类**
+      - [Map](Javase/java8_stream.md)
+      - [Collection](Javase/java8_stream.md)
+    - **Java 8特性**
+      - [Java8 特性-Stream流](Javase/java8_stream.md)
+      - [Java8 特性-Collector](Javase/java8_Collectors.md)
+    - [面向对象](JavaSE/object-oriented.md)
+    - [封装类](JavaSE/Encapsulation_class.md)
+- **数据库**
+    - **MySQL**
+      - [MySql官网文档阅读记录](mysql/mysql_doc.md)
+    - **Redis**
+      - [redis入门](redis/base_01.md)
+- **设计模式**
+    - **入门理论**
+      - [redis入门](redis/base_01.md)
+    - **实践**
+      - [redis入门](redis/base_01.md)
+- **常见框架**
+    - **Spring系列**
+        - [Spring Core(1)](framework/spring/spring-core-1.md)
+    - **ORM系列**
+      - [入门Mybatis Plus提高开发效率](framework/orm/mybatis_plus_01.md)
+- **技术学习**
+    - [elastic学习](elastic/base_01.md)
+- **消息推送**
+    - [消息推送的几种方式](message/message_01.md)
+    - [rabbitMQ入门](/message/rabbitmq_tutorials.md)
+    - [Spring AMQP入门](/message/Spring_AMQP.md)
+    - [Spring集成mqtt](/message/spring_mqtt.md)
+- **其他**
+    - [chatGPT体验](others/chatingWithGPT.md)
+
+
+
+
