@@ -7,13 +7,13 @@
       - [进程与线程](401/DHData_struc.md)
 - **Java基础**
     - **集合类**
-      - [Map](javase/java8_stream.md)
-      - [Collection](javase/java8_stream.md)
+      - [Map](jse/java8_stream.md)
+      - [Collection](jse/java8_stream.md)
     - **Java 8特性**
-      - [Java8 特性-Stream流](javase/java8_stream.md)
-      - [Java8 特性-Collector](javase/java8_Collectors.md)
-    - [面向对象](javase/object-oriented.md)
-    - [封装类](javase/Encapsulation_class.md)
+      - [Java8 特性-Stream流](jse/java8_stream.md)
+      - [Java8 特性-Collector](jse/java8_Collectors.md)
+    - [面向对象](jse/object-oriented.md)
+    - [封装类](jse/Encapsulation_class.md)
 - **数据库**
     - **MySQL**
       - [MySql官网文档阅读记录](mysql/mysql_doc.md)
