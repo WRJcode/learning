@@ -7,11 +7,11 @@
       - [进程与线程](401/DHData_struc.md)
 - **Java基础**
     - **集合类**
-      - [Map](Javase/java8_stream.md)
-      - [Collection](Javase/java8_stream.md)
+      - [Map](JavaSE/java8_stream.md)
+      - [Collection](JavaSE/java8_stream.md)
     - **Java 8特性**
-      - [Java8 特性-Stream流](Javase/java8_stream.md)
-      - [Java8 特性-Collector](Javase/java8_Collectors.md)
+      - [Java8 特性-Stream流](JavaSE/java8_stream.md)
+      - [Java8 特性-Collector](JavaSE/java8_Collectors.md)
     - [面向对象](JavaSE/object-oriented.md)
     - [封装类](JavaSE/Encapsulation_class.md)
 - **数据库**
