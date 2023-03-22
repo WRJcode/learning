@@ -18,7 +18,7 @@
     - **MySQL**
       - [MySql官网文档阅读记录](mysql/mysql_doc.md)
     - **Redis**
-      - [redis入门](redis/base_01.md)
+      - [redis入门](database/redis/redis_01.md)
 - **设计模式**
     - **入门理论**
       - [redis入门](redis/base_01.md)
@@ -29,6 +29,8 @@
         - [Spring Core(1)](framework/spring/spring-core-1.md)
     - **ORM系列**
       - [入门Mybatis Plus提高开发效率](framework/orm/mybatis_plus_01.md)
+- **微服务**
+    - [seata入门](microservices/seata_01.md)
 - **技术学习**
     - [elastic学习](elastic/base_01.md)
 - **消息推送**
