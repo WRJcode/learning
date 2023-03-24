@@ -21,9 +21,12 @@
       - [redis入门](database/redis/redis_01.md)
 - **设计模式**
     - **入门理论**
-      - [redis入门](redis/base_01.md)
-    - **实践**
-      - [redis入门](redis/base_01.md)
+    - **创建型**
+      - [工厂方法](design-pattern/create/factory-method.md)
+    - **结构型**
+      - [适配器](design-pattern/structure/adapter_1.md)
+    - **行为型**
+      - [模板方法](design-pattern/behavior/template_1.md)
 - **常见框架**
     - **Spring系列**
         - [Spring Core(1)](framework/spring/spring-core-1.md)
