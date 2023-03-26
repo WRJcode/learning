@@ -1,37 +1,38 @@
 - **计算机基础**
     - **数据结构**
-      - [大话数据结构](401/DHData_struc.md)
+        - [大话数据结构](401/DHData_struc.md)
     - **计算机网络**
-      - [常见计算机网络协议](401/DHData_struc.md)
+        - [常见计算机网络协议](401/DHData_struc.md)
     - **操作系统**
-      - [进程与线程](401/DHData_struc.md)
+        - [进程与线程](401/DHData_struc.md)
 - **Java基础**
     - **集合类**
-      - [Map](jse/java8_stream.md)
-      - [Collection](jse/java8_stream.md)
+        - [Map](jse/java8_stream.md)
+        - [Collection](jse/java8_stream.md)
     - **Java 8特性**
-      - [Java8 特性-Stream流](jse/java8_stream.md)
-      - [Java8 特性-Collector](jse/java8_Collectors.md)
+        - [Java8 特性-Stream流](jse/java8_stream.md)
+        - [Java8 特性-Collector](jse/java8_Collectors.md)
     - [面向对象](jse/object-oriented.md)
     - [封装类](jse/Encapsulation_class.md)
 - **数据库**
     - **MySQL**
-      - [MySql官网文档阅读记录](mysql/mysql_doc.md)
+        - [MySql官网文档阅读记录](mysql/mysql_doc.md)
     - **Redis**
-      - [redis入门](database/redis/redis_01.md)
+        - [redis入门](database/redis/redis_01.md)
 - **设计模式**
     - **入门理论**
+        - [前言](design-pattern/introduction_1.md)
     - **创建型**
-      - [工厂方法](design-pattern/create/factory-method.md)
+        - [工厂方法](design-pattern/create/factory-method/factory-method.md)
     - **结构型**
-      - [适配器](design-pattern/structure/adapter_1.md)
+        - [适配器](design-pattern/structure/adapter/adapter_1.md)
     - **行为型**
-      - [模板方法](design-pattern/behavior/template_1.md)
+        - [模板方法](design-pattern/behavior/template/template_1.md)
 - **常见框架**
     - **Spring系列**
         - [Spring Core(1)](framework/spring/spring-core-1.md)
     - **ORM系列**
-      - [入门Mybatis Plus提高开发效率](framework/orm/mybatis_plus_01.md)
+        - [入门Mybatis Plus提高开发效率](framework/orm/mybatis_plus_01.md)
 - **微服务**
     - [seata入门](microservices/seata_01.md)
 - **技术学习**
@@ -44,6 +45,11 @@
 - **其他**
     - [chatGPT体验](others/chatingWithGPT.md)
 
-
-
-
+ <!-- 
+ - 一级目录
+    - 二级目录
+        - [文档](docs/1.md)
+        - [文档](docs/1.md)
+        - 三级目录
+            - [文档](docs/1.md)
+            - [文档](docs/1.md) -->
