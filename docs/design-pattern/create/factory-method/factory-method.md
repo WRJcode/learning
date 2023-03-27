@@ -1,8 +1,5 @@
 # 设计模式之工厂方法
 
->
-
-
 <h3>1、背景</h3>
 
 <h3>2、定义</h3>
@@ -11,9 +8,15 @@
 
 >此模式角色有抽象产品、具体产品、抽象工厂、具体工厂;具体的产品依赖于某具体的工厂类，就是说具体产品由具体工厂创建；符合开闭原则，每当引入新的产品只需新增新的具体工厂即可。
 
-![image](factory-method_1.png)
+![image](factory-method.png)
 
 <h3>4、实例</h3>
+
+>现在有一个飞行射击类的需求，需要在屏幕上生成坦克、飞机、Boss等角色。
+
+>以上用例结构图如下：
+
+![image](example4.4.png)
 
 >部分代码如下，详细代码在：<br>
 
@@ -101,8 +104,7 @@ public class Client {
     }
 }
 ```
->以上用例结构图如下：
 
-![image](factory-method.png)
+<h3>5、其他框架实例</h3>
 
-<h3>5、开源框架实例</h3>
+>JDK-Collection中的方法工厂：<br>抽象工厂:Collection<br>具体工厂：ArrayList、LinkedList、HashSet、TreeSet<br>抽象产品：Iterator<br>具体产品：定义在各个具体工厂的Itr，实现了Iterator
