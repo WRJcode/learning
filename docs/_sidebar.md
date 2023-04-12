@@ -6,14 +6,14 @@
     - **操作系统**
         - [进程与线程](401/DHData_struc.md)
 - **Java基础**
+    - [面向对象](jse/object-oriented.md)
+    - [封装类](jse/Encapsulation_class.md)
     - **集合类**
         - [Map](jse/java8_stream.md)
         - [Collection](jse/java8_stream.md)
     - **Java 8特性**
         - [Java8 特性-Stream流](jse/java8_stream.md)
         - [Java8 特性-Collector](jse/java8_Collectors.md)
-    - [面向对象](jse/object-oriented.md)
-    - [封装类](jse/Encapsulation_class.md)
 - **Jdk源码系列**
     - **lang**
         - [Class源码分析](jdk/lang/class.md) 
