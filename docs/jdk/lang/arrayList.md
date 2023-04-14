@@ -56,7 +56,8 @@ public class ArrayList<E> extends AbstractList<E>
         }
 ```
 
->显而易见ArrayList是一个可随机存储的线性(数组物理逻辑都是线性)列表
+>显而易见ArrayList是一个可随机存储的线性(数组物理逻辑都是线性)列表。
+>
 
 ## 3.匿名内部类
 
