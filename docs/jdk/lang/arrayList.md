@@ -6,8 +6,7 @@
  * Arrays：数组工具类
  * Math：运算工具类
  * System：系统类
- * Comparator：比较器类
- * function系列：Consumer、Predicate、UnaryOperator
+ * function系列：Consumer、Predicate、UnaryOperator、Comparator
 
 ## 2.类定义与数据结构
 
@@ -428,3 +427,5 @@ public class ArrayList<E> extends AbstractList<E>
         }
     }
 ```
+
+## 4.方法分析
